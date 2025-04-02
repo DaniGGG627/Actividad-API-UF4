@@ -1,0 +1,6 @@
+{
+    "/api/users": {
+        "method": "GET",
+        "handler": "UserController::index"
+    }
+}
